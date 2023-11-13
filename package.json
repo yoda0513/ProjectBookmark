@@ -1,0 +1,17 @@
+{
+    "name": "jp.button-game.ProjectBookmark",
+    "displayName": "ProjectBookmark",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "UnityProjectのショートカットを登録する機能です。",
+   
+    "dependencies": {
+     
+   },
+
+    "author": {
+      "name": "Yoda",
+      "email": "gnito397@gmail.com",
+      "url": "https://button-game.jp"
+    }
+  }

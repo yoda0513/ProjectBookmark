@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/ProjectBookmark/Editor/ProjectBookmark.uss?fileID=7433441132597879392&amp;guid=783df4e771195434e80124982c28f1b5&amp;type=3#ProjectBookmark" />
+    <ui:Label tabindex="-1" text="ブックマークの一覧を表示します。&#10;ブックマークの登録・削除は上の設定欄から。" display-tooltip-when-elided="true" />
+    <ui:ScrollView />
+</ui:UXML>

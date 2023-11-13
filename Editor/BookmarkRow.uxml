@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="BookmarkRow" style="flex-grow: 0; background-color: rgb(96, 96, 96); flex-direction: row; -unity-background-image-tint-color: rgb(152, 152, 152); flex-shrink: 0; height: 50px;">
+        <ui:VisualElement style="flex-grow: 1; background-color: rgba(79, 79, 79, 0); height: auto; border-left-color: rgb(29, 29, 29); border-right-color: rgb(29, 29, 29); border-top-color: rgb(29, 29, 29); border-bottom-color: rgb(29, 29, 29); border-left-width: 0.5px; border-right-width: 0.5px; border-top-width: 0.5px; border-bottom-width: 0.5px; max-width: 222px; min-width: 222px; width: 222px;">
+            <ui:Label tabindex="-1" text="Label" display-tooltip-when-elided="true" name="BookmarkName" style="flex-grow: 1; -unity-text-align: middle-left; -unity-font-style: bold;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: auto; border-left-width: 0.5px; border-right-width: 0.5px; border-top-width: 0.5px; border-bottom-width: 0.5px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0);">
+            <ui:Label tabindex="-1" text="Label" display-tooltip-when-elided="true" name="BookmarkLink" style="flex-grow: 1; -unity-text-align: middle-left; -unity-font-style: bold;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
